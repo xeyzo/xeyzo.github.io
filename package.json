@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/musfirotus/HTML-Static.git"
+    "url": ""
   },
   "keywords": [
     "tailwind",
@@ -20,9 +20,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/musfirotus/HTML-Static/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/musfirotus/HTML-Static#readme",
+  "homepage": "",
   "dependencies": {
     "autoprefixer": "^9.8.6",
     "postcss-cli": "^7.1.1",
